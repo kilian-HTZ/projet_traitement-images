@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>0483eb0e-1080-4595-89ca-4c2495b47d81.jpg</filename>
+    <path>0483eb0e-1080-4595-89ca-4c2495b47d81.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>486</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>supply</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>696</xmin>
+            <ymin>148</ymin>
+            <xmax>775</xmax>
+            <ymax>406</ymax>
+        </bndbox>
+    </object>
+</annotation>

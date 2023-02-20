@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>605d5839-4360-49d1-bc0a-64ab38b2abe7.jpg</filename>
+    <path>605d5839-4360-49d1-bc0a-64ab38b2abe7.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1493</width>
+        <height>737</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>205</xmin>
+            <ymin>41</ymin>
+            <xmax>241</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>45</ymin>
+            <xmax>177</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>154</xmin>
+            <ymin>34</ymin>
+            <xmax>210</xmax>
+            <ymax>345</ymax>
+        </bndbox>
+    </object>
+</annotation>

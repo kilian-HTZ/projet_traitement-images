@@ -1,0 +1,70 @@
+<annotation>
+    <folder></folder>
+    <filename>9804c363-d2e9-4c08-af32-51697ffc69be.jpg</filename>
+    <path>9804c363-d2e9-4c08-af32-51697ffc69be.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1067</width>
+        <height>798</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>666</xmin>
+            <ymin>96</ymin>
+            <xmax>918</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>675</xmin>
+            <ymin>182</ymin>
+            <xmax>937</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>653</xmin>
+            <ymin>531</ymin>
+            <xmax>933</xmax>
+            <ymax>622</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274</xmin>
+            <ymin>497</ymin>
+            <xmax>577</xmax>
+            <ymax>588</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>595</ymin>
+            <xmax>615</xmax>
+            <ymax>724</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>900de39c-90f8-446c-a653-9d2efedb508a.jpg</filename>
+    <path>900de39c-90f8-446c-a653-9d2efedb508a.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1435</width>
+        <height>842</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>996</xmin>
+            <ymin>10</ymin>
+            <xmax>1318</xmax>
+            <ymax>66</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>501</xmin>
+            <ymin>12</ymin>
+            <xmax>899</xmax>
+            <ymax>108</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1266</xmin>
+            <ymin>368</ymin>
+            <xmax>1394</xmax>
+            <ymax>814</ymax>
+        </bndbox>
+    </object>
+</annotation>

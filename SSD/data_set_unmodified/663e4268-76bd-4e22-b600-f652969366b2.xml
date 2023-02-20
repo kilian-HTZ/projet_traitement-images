@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>663e4268-76bd-4e22-b600-f652969366b2.jpg</filename>
+    <path>663e4268-76bd-4e22-b600-f652969366b2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>953</width>
+        <height>857</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>447</xmin>
+            <ymin>725</ymin>
+            <xmax>877</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>420</xmin>
+            <ymin>618</ymin>
+            <xmax>847</xmax>
+            <ymax>733</ymax>
+        </bndbox>
+    </object>
+</annotation>

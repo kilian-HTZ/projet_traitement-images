@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>736ed2ee-cd25-4c50-9d3f-46985fa35f09.jpg</filename>
+    <path>736ed2ee-cd25-4c50-9d3f-46985fa35f09.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>561</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>submarine</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>495</xmin>
+            <ymin>215</ymin>
+            <xmax>579</xmax>
+            <ymax>260</ymax>
+        </bndbox>
+    </object>
+</annotation>

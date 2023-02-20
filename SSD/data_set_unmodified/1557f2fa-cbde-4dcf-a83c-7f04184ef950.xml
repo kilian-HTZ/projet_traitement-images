@@ -1,0 +1,92 @@
+<annotation>
+    <folder></folder>
+    <filename>1557f2fa-cbde-4dcf-a83c-7f04184ef950.jpg</filename>
+    <path>1557f2fa-cbde-4dcf-a83c-7f04184ef950.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>442</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>715</xmin>
+            <ymin>167</ymin>
+            <xmax>742</xmax>
+            <ymax>285</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>648</xmin>
+            <ymin>12</ymin>
+            <xmax>682</xmax>
+            <ymax>138</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>690</xmin>
+            <ymin>11</ymin>
+            <xmax>726</xmax>
+            <ymax>135</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>832</xmin>
+            <ymin>139</ymin>
+            <xmax>871</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>661</xmin>
+            <ymin>177</ymin>
+            <xmax>703</xmax>
+            <ymax>313</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>293</xmin>
+            <ymin>45</ymin>
+            <xmax>351</xmax>
+            <ymax>227</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>350</xmin>
+            <ymin>40</ymin>
+            <xmax>414</xmax>
+            <ymax>229</ymax>
+        </bndbox>
+    </object>
+</annotation>
