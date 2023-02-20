@@ -1,0 +1,103 @@
+<annotation>
+    <folder></folder>
+    <filename>cd95c46b-5f8f-41dc-898b-a926c8da9d5c.jpg</filename>
+    <path>cd95c46b-5f8f-41dc-898b-a926c8da9d5c.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>967</width>
+        <height>570</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>578</xmin>
+            <ymin>110</ymin>
+            <xmax>599</xmax>
+            <ymax>203</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>289</xmin>
+            <ymin>99</ymin>
+            <xmax>311</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>259</xmin>
+            <ymin>101</ymin>
+            <xmax>283</xmax>
+            <ymax>196</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>605</xmin>
+            <ymin>108</ymin>
+            <xmax>629</xmax>
+            <ymax>206</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546</xmin>
+            <ymin>93</ymin>
+            <xmax>572</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>691</xmin>
+            <ymin>112</ymin>
+            <xmax>717</xmax>
+            <ymax>209</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>317</xmin>
+            <ymin>105</ymin>
+            <xmax>343</xmax>
+            <ymax>200</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>655</xmin>
+            <ymin>109</ymin>
+            <xmax>688</xmax>
+            <ymax>203</ymax>
+        </bndbox>
+    </object>
+</annotation>

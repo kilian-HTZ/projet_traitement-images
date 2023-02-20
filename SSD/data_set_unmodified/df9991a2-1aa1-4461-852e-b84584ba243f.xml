@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>df9991a2-1aa1-4461-852e-b84584ba243f.jpg</filename>
+    <path>df9991a2-1aa1-4461-852e-b84584ba243f.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1535</width>
+        <height>762</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1015</xmin>
+            <ymin>50</ymin>
+            <xmax>1338</xmax>
+            <ymax>127</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>526</xmin>
+            <ymin>78</ymin>
+            <xmax>920</xmax>
+            <ymax>168</ymax>
+        </bndbox>
+    </object>
+</annotation>

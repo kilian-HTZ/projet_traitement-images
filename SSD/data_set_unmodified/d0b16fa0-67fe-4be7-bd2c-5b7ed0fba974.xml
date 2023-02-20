@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>d0b16fa0-67fe-4be7-bd2c-5b7ed0fba974.jpg</filename>
+    <path>d0b16fa0-67fe-4be7-bd2c-5b7ed0fba974.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>867</width>
+        <height>842</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>193</xmin>
+            <ymin>53</ymin>
+            <xmax>337</xmax>
+            <ymax>433</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>590</xmin>
+            <ymin>462</ymin>
+            <xmax>682</xmax>
+            <ymax>783</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>548</xmin>
+            <ymin>2</ymin>
+            <xmax>627</xmax>
+            <ymax>325</ymax>
+        </bndbox>
+    </object>
+</annotation>

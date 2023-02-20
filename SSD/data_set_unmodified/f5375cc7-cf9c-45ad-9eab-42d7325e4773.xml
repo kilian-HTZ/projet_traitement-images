@@ -1,0 +1,59 @@
+<annotation>
+    <folder></folder>
+    <filename>f5375cc7-cf9c-45ad-9eab-42d7325e4773.jpg</filename>
+    <path>f5375cc7-cf9c-45ad-9eab-42d7325e4773.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1112</width>
+        <height>822</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>618</xmin>
+            <ymin>534</ymin>
+            <xmax>925</xmax>
+            <ymax>601</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>614</xmin>
+            <ymin>447</ymin>
+            <xmax>913</xmax>
+            <ymax>522</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>573</xmin>
+            <ymin>641</ymin>
+            <xmax>995</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>303</xmin>
+            <ymin>158</ymin>
+            <xmax>750</xmax>
+            <ymax>293</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>f037d9b9-c223-49b7-aa49-0309f0bb39f9.jpg</filename>
+    <path>f037d9b9-c223-49b7-aa49-0309f0bb39f9.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1455</width>
+        <height>742</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>996</xmin>
+            <ymin>268</ymin>
+            <xmax>1243</xmax>
+            <ymax>336</ymax>
+        </bndbox>
+    </object>
+</annotation>

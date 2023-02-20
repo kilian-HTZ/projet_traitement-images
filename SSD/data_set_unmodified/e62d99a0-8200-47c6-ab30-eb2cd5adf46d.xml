@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>e62d99a0-8200-47c6-ab30-eb2cd5adf46d.jpg</filename>
+    <path>e62d99a0-8200-47c6-ab30-eb2cd5adf46d.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1485</width>
+        <height>852</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1110</xmin>
+            <ymin>231</ymin>
+            <xmax>1370</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>719</xmin>
+            <ymin>99</ymin>
+            <xmax>1029</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55</xmin>
+            <ymin>486</ymin>
+            <xmax>182</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

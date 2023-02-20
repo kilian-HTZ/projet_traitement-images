@@ -1,0 +1,92 @@
+<annotation>
+    <folder></folder>
+    <filename>d7a0d982-a454-4838-9b1e-970838e618a3.jpg</filename>
+    <path>d7a0d982-a454-4838-9b1e-970838e618a3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1348</width>
+        <height>847</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>613</xmin>
+            <ymin>9</ymin>
+            <xmax>894</xmax>
+            <ymax>58</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>902</xmin>
+            <ymin>-13</ymin>
+            <xmax>1174</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249</xmin>
+            <ymin>30</ymin>
+            <xmax>591</xmax>
+            <ymax>94</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>608</xmin>
+            <ymin>345</ymin>
+            <xmax>871</xmax>
+            <ymax>443</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>881</xmin>
+            <ymin>273</ymin>
+            <xmax>1151</xmax>
+            <ymax>373</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>279</xmin>
+            <ymin>413</ymin>
+            <xmax>593</xmax>
+            <ymax>516</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>126</xmin>
+            <ymin>526</ymin>
+            <xmax>308</xmax>
+            <ymax>836</ymax>
+        </bndbox>
+    </object>
+</annotation>

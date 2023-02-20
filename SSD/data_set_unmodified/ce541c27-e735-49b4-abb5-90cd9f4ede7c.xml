@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>ce541c27-e735-49b4-abb5-90cd9f4ede7c.jpg</filename>
+    <path>ce541c27-e735-49b4-abb5-90cd9f4ede7c.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>502</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>supply</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>565</xmin>
+            <ymin>137</ymin>
+            <xmax>657</xmax>
+            <ymax>345</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>244</ymin>
+            <xmax>391</xmax>
+            <ymax>338</ymax>
+        </bndbox>
+    </object>
+</annotation>

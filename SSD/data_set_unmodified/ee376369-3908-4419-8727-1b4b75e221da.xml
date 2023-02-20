@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>ee376369-3908-4419-8727-1b4b75e221da.jpg</filename>
+    <path>ee376369-3908-4419-8727-1b4b75e221da.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>786</width>
+        <height>677</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>602</xmin>
+            <ymin>71</ymin>
+            <xmax>677</xmax>
+            <ymax>483</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>322</ymin>
+            <xmax>307</xmax>
+            <ymax>451</ymax>
+        </bndbox>
+    </object>
+</annotation>
