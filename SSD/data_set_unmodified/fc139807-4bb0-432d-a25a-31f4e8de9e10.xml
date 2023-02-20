@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>fc139807-4bb0-432d-a25a-31f4e8de9e10.jpg</filename>
+    <path>fc139807-4bb0-432d-a25a-31f4e8de9e10.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1473</width>
+        <height>755</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>113</xmin>
+            <ymin>348</ymin>
+            <xmax>542</xmax>
+            <ymax>459</ymax>
+        </bndbox>
+    </object>
+</annotation>
