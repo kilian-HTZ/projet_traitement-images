@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>84821452-d926-4ad8-be12-7e2334b68d27.jpg</filename>
+    <path>84821452-d926-4ad8-be12-7e2334b68d27.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>468</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>209</ymin>
+            <xmax>256</xmax>
+            <ymax>247</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>565</xmin>
+            <ymin>202</ymin>
+            <xmax>639</xmax>
+            <ymax>337</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>supply</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>544</xmin>
+            <ymin>128</ymin>
+            <xmax>629</xmax>
+            <ymax>297</ymax>
+        </bndbox>
+    </object>
+</annotation>

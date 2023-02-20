@@ -1,0 +1,70 @@
+<annotation>
+    <folder></folder>
+    <filename>b752a3b3-2119-4d08-b698-d24f27d8b25d.jpg</filename>
+    <path>b752a3b3-2119-4d08-b698-d24f27d8b25d.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>971</width>
+        <height>770</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>520</xmin>
+            <ymin>666</ymin>
+            <xmax>842</xmax>
+            <ymax>730</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145</xmin>
+            <ymin>54</ymin>
+            <xmax>426</xmax>
+            <ymax>142</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>516</xmin>
+            <ymin>560</ymin>
+            <xmax>865</xmax>
+            <ymax>634</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>495</xmin>
+            <ymin>179</ymin>
+            <xmax>897</xmax>
+            <ymax>281</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>458</xmin>
+            <ymin>54</ymin>
+            <xmax>908</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>
+</annotation>

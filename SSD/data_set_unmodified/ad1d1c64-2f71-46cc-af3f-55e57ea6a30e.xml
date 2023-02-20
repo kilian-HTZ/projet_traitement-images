@@ -1,0 +1,92 @@
+<annotation>
+    <folder></folder>
+    <filename>ad1d1c64-2f71-46cc-af3f-55e57ea6a30e.jpg</filename>
+    <path>ad1d1c64-2f71-46cc-af3f-55e57ea6a30e.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>404</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>272</xmin>
+            <ymin>29</ymin>
+            <xmax>335</xmax>
+            <ymax>211</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>617</xmin>
+            <ymin>156</ymin>
+            <xmax>662</xmax>
+            <ymax>285</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>349</xmin>
+            <ymin>212</ymin>
+            <xmax>385</xmax>
+            <ymax>315</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>605</xmin>
+            <ymin>2</ymin>
+            <xmax>635</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>littoral combat ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>873</xmin>
+            <ymin>25</ymin>
+            <xmax>905</xmax>
+            <ymax>114</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>471</xmin>
+            <ymin>196</ymin>
+            <xmax>498</xmax>
+            <ymax>301</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>310</xmin>
+            <ymin>214</ymin>
+            <xmax>337</xmax>
+            <ymax>319</ymax>
+        </bndbox>
+    </object>
+</annotation>

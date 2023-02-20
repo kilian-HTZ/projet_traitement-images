@@ -1,0 +1,59 @@
+<annotation>
+    <folder></folder>
+    <filename>86862969-887e-4b48-a857-c30cd1cf3061.jpg</filename>
+    <path>86862969-887e-4b48-a857-c30cd1cf3061.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1272</width>
+        <height>837</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>436</xmin>
+            <ymin>364</ymin>
+            <xmax>679</xmax>
+            <ymax>435</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>717</xmin>
+            <ymin>322</ymin>
+            <xmax>967</xmax>
+            <ymax>403</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>174</xmin>
+            <ymin>399</ymin>
+            <xmax>414</xmax>
+            <ymax>487</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1037</xmin>
+            <ymin>64</ymin>
+            <xmax>1195</xmax>
+            <ymax>280</ymax>
+        </bndbox>
+    </object>
+</annotation>

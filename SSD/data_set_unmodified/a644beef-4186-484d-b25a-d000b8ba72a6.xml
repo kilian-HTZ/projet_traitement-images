@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>a644beef-4186-484d-b25a-d000b8ba72a6.jpg</filename>
+    <path>a644beef-4186-484d-b25a-d000b8ba72a6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>913</width>
+        <height>830</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>315</xmin>
+            <ymin>106</ymin>
+            <xmax>660</xmax>
+            <ymax>314</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>355</xmin>
+            <ymin>3</ymin>
+            <xmax>697</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>
+</annotation>

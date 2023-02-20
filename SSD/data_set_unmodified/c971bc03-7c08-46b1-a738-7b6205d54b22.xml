@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>c971bc03-7c08-46b1-a738-7b6205d54b22.jpg</filename>
+    <path>c971bc03-7c08-46b1-a738-7b6205d54b22.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>660</width>
+        <height>741</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>barge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>97</xmin>
+            <ymin>46</ymin>
+            <xmax>256</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+</annotation>
