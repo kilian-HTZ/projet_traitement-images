@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>74dd12bb-fe4a-44a8-936e-edda9a1fc4f9.jpg</filename>
+    <path>74dd12bb-fe4a-44a8-936e-edda9a1fc4f9.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>490</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>194</xmin>
+            <ymin>129</ymin>
+            <xmax>320</xmax>
+            <ymax>225</ymax>
+        </bndbox>
+    </object>
+</annotation>

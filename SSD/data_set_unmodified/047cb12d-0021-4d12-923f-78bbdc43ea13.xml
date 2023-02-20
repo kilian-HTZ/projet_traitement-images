@@ -1,0 +1,48 @@
+<annotation>
+    <folder></folder>
+    <filename>047cb12d-0021-4d12-923f-78bbdc43ea13.jpg</filename>
+    <path>047cb12d-0021-4d12-923f-78bbdc43ea13.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1455</width>
+        <height>841</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>patrol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>71</xmin>
+            <ymin>527</ymin>
+            <xmax>178</xmax>
+            <ymax>774</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1125</xmin>
+            <ymin>207</ymin>
+            <xmax>1430</xmax>
+            <ymax>336</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>amphiby</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>646</xmin>
+            <ymin>84</ymin>
+            <xmax>1029</xmax>
+            <ymax>246</ymax>
+        </bndbox>
+    </object>
+</annotation>

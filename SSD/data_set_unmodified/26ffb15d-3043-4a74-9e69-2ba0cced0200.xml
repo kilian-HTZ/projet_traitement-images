@@ -1,0 +1,26 @@
+<annotation>
+    <folder></folder>
+    <filename>26ffb15d-3043-4a74-9e69-2ba0cced0200.jpg</filename>
+    <path>26ffb15d-3043-4a74-9e69-2ba0cced0200.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>599</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>299</xmin>
+            <ymin>192</ymin>
+            <xmax>422</xmax>
+            <ymax>261</ymax>
+        </bndbox>
+    </object>
+</annotation>

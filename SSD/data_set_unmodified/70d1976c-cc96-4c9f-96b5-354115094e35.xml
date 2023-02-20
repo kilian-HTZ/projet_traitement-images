@@ -1,0 +1,59 @@
+<annotation>
+    <folder></folder>
+    <filename>70d1976c-cc96-4c9f-96b5-354115094e35.jpg</filename>
+    <path>70d1976c-cc96-4c9f-96b5-354115094e35.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1328</width>
+        <height>818</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>255</xmin>
+            <ymin>335</ymin>
+            <xmax>542</xmax>
+            <ymax>502</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>fregate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>724</xmin>
+            <ymin>593</ymin>
+            <xmax>1018</xmax>
+            <ymax>781</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>destroyer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>978</xmin>
+            <ymin>204</ymin>
+            <xmax>1291</xmax>
+            <ymax>397</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>239</xmin>
+            <ymin>429</ymin>
+            <xmax>562</xmax>
+            <ymax>632</ymax>
+        </bndbox>
+    </object>
+</annotation>
