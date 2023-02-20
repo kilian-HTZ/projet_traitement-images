@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>1dfd09ec-b2d8-4935-be53-f443fa990034.jpg</filename>
+    <path>1dfd09ec-b2d8-4935-be53-f443fa990034.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>999</width>
+        <height>452</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>144</ymin>
+            <xmax>300</xmax>
+            <ymax>229</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>submarine</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>327</xmin>
+            <ymin>6</ymin>
+            <xmax>519</xmax>
+            <ymax>155</ymax>
+        </bndbox>
+    </object>
+</annotation>

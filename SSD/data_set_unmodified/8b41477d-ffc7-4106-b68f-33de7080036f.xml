@@ -1,0 +1,103 @@
+<annotation>
+    <folder></folder>
+    <filename>8b41477d-ffc7-4106-b68f-33de7080036f.jpg</filename>
+    <path>8b41477d-ffc7-4106-b68f-33de7080036f.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>999</width>
+        <height>533</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>412</xmin>
+            <ymin>69</ymin>
+            <xmax>429</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>426</xmin>
+            <ymin>68</ymin>
+            <xmax>444</xmax>
+            <ymax>185</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>414</xmin>
+            <ymin>273</ymin>
+            <xmax>439</xmax>
+            <ymax>392</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tender</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>498</xmin>
+            <ymin>129</ymin>
+            <xmax>542</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>141</xmin>
+            <ymin>200</ymin>
+            <xmax>208</xmax>
+            <ymax>478</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>68</xmin>
+            <ymin>206</ymin>
+            <xmax>138</xmax>
+            <ymax>489</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>339</xmin>
+            <ymin>190</ymin>
+            <xmax>414</xmax>
+            <ymax>466</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>carrier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>218</xmin>
+            <ymin>205</ymin>
+            <xmax>300</xmax>
+            <ymax>496</ymax>
+        </bndbox>
+    </object>
+</annotation>

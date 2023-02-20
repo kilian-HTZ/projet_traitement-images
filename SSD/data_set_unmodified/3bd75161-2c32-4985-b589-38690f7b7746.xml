@@ -1,0 +1,37 @@
+<annotation>
+    <folder></folder>
+    <filename>3bd75161-2c32-4985-b589-38690f7b7746.jpg</filename>
+    <path>3bd75161-2c32-4985-b589-38690f7b7746.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>999</width>
+        <height>541</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cruiser</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>580</xmin>
+            <ymin>280</ymin>
+            <xmax>653</xmax>
+            <ymax>431</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>pha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>108</xmin>
+            <ymin>307</ymin>
+            <xmax>354</xmax>
+            <ymax>389</ymax>
+        </bndbox>
+    </object>
+</annotation>
