@@ -1,3 +1,7 @@
+AUteur HEITZ Kilian M1 SETSIS université clermont Auvergne 
+
+
+
 # projet_traitement-images
 ---------------------------
 
